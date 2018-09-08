@@ -22,3 +22,13 @@
 
 每天将学习内容做大纲或要点梳理，上传到仓库中的对应文件夹中
 [示例](示例/README.md)
+
+# 参考内容
+
+[CTF-wiki](https://ctf-wiki.github.io/ctf-wiki/)
+[Web-Security-Learning 学习资料](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
+
+## 社区论坛
+[Freebuf](http://www.freebuf.com/)
+[黑客街](http://www.hackjie.com/)
+[NaviSec.it – 纳威安全导航](https://navisec.it/)
