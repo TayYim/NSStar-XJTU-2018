@@ -70,5 +70,9 @@
 #### 网络架构
 
 #### 密码学
+
 密码学与网络安全（第2版）清华大学出版社 这本书讲的挺通俗易懂的，有一点旧，不过讲的还算比较全了。
 
+参考网站：[ctf-wiki密码学](https://ctf-wiki.github.io/ctf-wiki/crypto/introduction/)
+
+根据去年的题，可以先不理解各种加密的公式算法，要了解不同加密方式的输入、输出和各种特征。不过RSA考得很多，可以重点看一下RSA和其他公钥密码学的内容，推荐阮一峰大佬的博客[RSA算法原理](http://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)。
