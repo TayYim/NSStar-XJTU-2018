@@ -11,6 +11,10 @@
     * 客户端安全（游）
     * 防火墙（邓，游，谭）
     * 虚拟专用网（邓）
+      * IPsec VPN: https://www.cnblogs.com/xiaohuamao/p/8021850.html
+      * SSL VPN: https://www.cnblogs.com/bhlsheji/p/4586597.html
+      * L2TP VPN: https://www.cnblogs.com/Shepherdzhao/p/8639794.html
+      **ps:我看了看去年的题，VPN这块考的很浅很少，把上面三篇文章（最流行的三种VPN）快速过一遍应该就可以了 ^o^
     * 安全设计（严，谭）
     * 入侵检测及防御（谭）
     * 网络架构（谭，邓）
